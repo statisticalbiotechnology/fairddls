@@ -1,0 +1,10 @@
+{
+    "markdown.marp.themes": [
+      "./ddls-theme.css",
+    ], 
+    "markdown.marpCliArguments": [
+      "--allow-local-files",
+      "--debug"
+    ]
+}
+  
