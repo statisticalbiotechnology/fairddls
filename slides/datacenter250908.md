@@ -31,25 +31,13 @@ Perez-Riverol et al., J. Proteome Res. 2025, **24**(5), 2222–2234
 
 ---
 
-# Why FAIR Software Matters for All Science
+# Why FAIR Software Matters for Science
 
 - Ensures **reproducibility** across disciplines.  
 - Supports **collaborative science** by allowing integration of diverse tools.  
 - Encourages **transparency** in algorithms and implementations.  
 - Lowers **barriers to entry**, enabling broader participation.  
 - Aligns with open science and funding mandates.  
-
----
-
-# Proteomics and Software
-
-- Mass spectrometry-based proteomics is **data-intensive**.  
-- Analysis pipelines involve multiple steps:  
-  - Spectral processing  
-  - Identification  
-  - Quantification  
-  - Statistics & interpretation  
-- Software is **central to discovery** in proteomics.  
 
 ---
 
@@ -157,3 +145,30 @@ Perez-Riverol et al., J. Proteome Res. 2025, **24**(5), 2222–2234
 - Proteomics shows both the challenges and the path forward.  
 - The future of science is **open, reproducible, and FAIR**.  
 
+---
+
+# Evaluating FAIR Practices: Self-Report
+
+- Candidates should be asked to **self-report** on:  
+  - Use of **FAIR principles** in their software and data  
+  - Licensing choices and documentation practices  
+  - Contributions to open-source projects  
+  - Engagement with standards and interoperability  
+
+> Self-reporting makes FAIR practices **visible, explicit, and comparable** across applicants.
+
+---
+
+# FAIR as an Evaluation Criterion
+
+- Academic evaluations often value:
+  - Publications  
+  - Grants  
+  - Teaching & service  
+
+- We should also value:
+  - **FAIR contributions** (software, data, workflows)  
+  - Sustainability & community impact  
+  - Openness and reproducibility  
+
+> Recognizing FAIR practices ensures they are **rewarded**, not just expected.
