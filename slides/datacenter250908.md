@@ -12,8 +12,8 @@ Lukas Käll &mdash; DDLS Research School Director for the Postdoc Program
 250904
 
 Based on:  
-Perez-Riverol et al.  
-*Journal of Proteome Research*, 2025  
+Perez-Riverol et al., J. Proteome Res. 2025, **24**(5), 2222–2234
+[https://doi.org/10.1021/acs.jproteome.4c01079](https://doi.org/10.1021/acs.jproteome.4c01079)
 
 ---
 
@@ -26,10 +26,10 @@ Perez-Riverol et al.
   - **Interoperable**  
   - **Reusable**  
 
----
-
 - FAIR principles apply not just to **data**, but also to **software**.  
 > FAIR software is key to reproducibility, trust, and scientific progress.
+
+---
 
 # Why FAIR Software Matters for All Science
 
@@ -63,6 +63,15 @@ Perez-Riverol et al.
 
 ---
 
+# My Project: Percolator
+
+- Post processor of search engine results
+- Massively increas number of identifications, and assigns statistical confidence
+- C++ Project with 20k semicolons
+- Actively developed since 2007
+
+---
+
 ![bg contain](img/jekylhide.png)
 
 ---
@@ -93,7 +102,23 @@ Perez-Riverol et al.
 
 ---
 
-# Faking Openness
+# Misconceptions About OSS
+
+- **“Open source = free of charge”**  
+  → OSS can be commercialized (support, services, dual licensing).  
+
+- **“OSS means no sustainability”**  
+  → With proper governance, OSS projects can thrive for decades.  
+
+- **“OSS is lower quality than commercial software”**  
+  → Many OSS tools in proteomics are leaders in accuracy and innovation.  
+
+- **“Open” without OSI-approved license is OSS**  
+  → True OSS requires **clear, recognized licenses** (e.g., MIT, GPL, Apache).
+
+---
+
+# Resembling openess is not openess
 
 - Some tools appear *open* but are not truly OSS:  
   - Source code is hidden or incomplete  
@@ -120,17 +145,6 @@ Perez-Riverol et al.
   - Ensures long-term support  
   - Aligns incentives between developers and users  
   - Strengthens the OSS ecosystem in proteomics
-
-
----
-
-# Vision for the Future
-
-- FAIR-aligned OSS as the **default standard**.  
-- Stronger **community ecosystems** around key tools.  
-- **Funding and recognition** for software development.  
-- Greater **cross-disciplinary exchange** via interoperable tools.  
-- A transparent and collaborative **research software culture**.
 
 ---
 
