@@ -55,11 +55,11 @@ Perez-Riverol et al., J. Proteome Res. 2025, **24**(5), 2222–2234
 
 # Benefits of Open & FAIR Software
 
-- ✅ Transparency → Methods can be inspected and verified  
-- ✅ Reproducibility → Same data → same results  
-- ✅ Interoperability → Easier integration across tools, and computational environments  
-- ✅ Sustainability → Community maintenance, no vendor lock-in  
-- ✅ Innovation → Lowers barriers for new methods  
+- Transparency → Methods can be inspected and verified  
+- Reproducibility → Same data → same results  
+- Interoperability → Easier integration across tools, and computational environments  
+- Sustainability → Community maintenance, no vendor lock-in  
+- Innovation → Lowers barriers for new methods  
 
 ---
 
@@ -69,10 +69,11 @@ Perez-Riverol et al., J. Proteome Res. 2025, **24**(5), 2222–2234
 - Massively increas number of identifications, and assigns statistical confidence
 - C++ Project with 20k semicolons
 - Actively developed since 2007
+- On GitHub since 2009, 21 contributors
 
 ---
 
-![bg contain](img/jekylhide.png)
+![bg contain](img/jekylhyde.png)
 
 ---
 
