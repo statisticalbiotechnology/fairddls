@@ -57,7 +57,7 @@ Perez-Riverol et al., J. Proteome Res. 2025, **24**(5), 2222–2234
 
 - ✅ Transparency → Methods can be inspected and verified  
 - ✅ Reproducibility → Same data → same results  
-- ✅ Interoperability → Easier integration across tools  
+- ✅ Interoperability → Easier integration across tools, and computational environments  
 - ✅ Sustainability → Community maintenance, no vendor lock-in  
 - ✅ Innovation → Lowers barriers for new methods  
 
